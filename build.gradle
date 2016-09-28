@@ -92,13 +92,14 @@ defaults {
 
     developers = [
         [id: 'jmoore', name: 'Jim Moore', email: 'moore.jim@gmail.com'],
+	[id: 'Tanemahuta', name: 'Christian Heike', email: 'christian.heike@icloud.com']
     ]
 
-    copyrightYears = '2014-2015'
+    copyrightYears = '2014-2016'
 }
 
 wrapper {
-    gradleVersion = 2.9
+    gradleVersion = 3.1
 }
 
 javadoc {
